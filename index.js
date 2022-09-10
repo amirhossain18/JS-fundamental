@@ -25,3 +25,9 @@ var avaMarksFinal= avaMarks.toFixed(2);
 // console.log(avaMarksFinal)
 var avaMarksPars= parseInt(avaMarksFinal);
 console.log(avaMarksPars);
+
+
+
+var price1 =100;
+ price1 -= 10;
+console.log(price1);
